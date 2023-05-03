@@ -1,2 +1,2 @@
-# Star Rail Datasets for SVC/SVS/TTS
+# StarRail Datasets for SVC/SVS/TTS
 Work In Process
