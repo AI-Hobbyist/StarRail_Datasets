@@ -51199,115 +51199,10 @@
         "text": "呃，得看上面有什么安排，如果还有未疏散的民众，我还得再回来。",
         "filepath": "chinese(prc)/voice/chapter2_ag1_sushang_145.wav"
     },
-    "3c207564b4bfbd7": {
-        "name": "三月七",
-        "text": "你好，{NICKNAME}。欢迎入职星穹列车，我是三月七，星穹列车的乘员，也是你的同事。现在，请先拍摄入职照…瞧把你吓的，咱是在开玩笑啦~",
-        "filepath": "chinese(prc)/voice/archive_mar7th_1.wav"
-    },
-    "175f91d0b10f7acb": {
-        "name": "丹恒",
-        "text": "重新介绍一下自己，我叫丹恒，担任列车的护卫，列车的智库也由我维护。",
-        "filepath": "chinese(prc)/voice/archive_danheng_1.wav"
-    },
-    "45af7d385746c6e9": {
-        "name": "姬子",
-        "text": "欢迎上车，{NICKNAME}，我是星穹列车的领航员，姬子。相信我们将会共度一段有趣的旅程。",
-        "filepath": "chinese(prc)/voice/archive_himeko_1.wav"
-    },
-    "d28e14f419b52c84": {
-        "name": "瓦尔特",
-        "text": "你好，我是瓦尔特•杨，遇到任何困难，欢迎随时来找我。",
-        "filepath": "chinese(prc)/voice/archive_welt_1.wav"
-    },
-    "166e6ad72b181fd8": {
-        "name": "阿兰",
-        "text": "你好，{NICKNAME}，我是空间站「黑塔」的防卫科负责人阿兰，在空间站期间，我会全力护你安全。",
-        "filepath": "chinese(prc)/voice/archive_arlan_1.wav"
-    },
-    "c9b8943ead09ff1d": {
-        "name": "艾丝妲",
-        "text": "嗨，{NICKNAME}，我是空间站「黑塔」的站长艾丝妲。要你帮忙的时候，我一定告诉你…你放心，不和你客气。",
-        "filepath": "chinese(prc)/voice/archive_asta_1.wav"
-    },
-    "257f0017b47b46a6": {
-        "name": "黑塔",
-        "text": "我是黑塔，现在很忙，这是远程人偶自动应答模式：你好，你好，大家好，祝你拥有愉快的一天，再见。",
-        "filepath": "chinese(prc)/voice/archive_herta_1.wav"
-    },
-    "189e9233254c15cd": {
-        "name": "布洛妮娅",
-        "text": "我是贝洛伯格「大守护者」继承人，代行银鬃铁卫统领，布洛妮娅•兰德…方才只是例行的自我介绍，叫我布洛妮娅就好。",
-        "filepath": "chinese(prc)/voice/archive_bronya_1.wav"
-    },
-    "2f6514ec2dbb5b5f": {
-        "name": "杰帕德",
-        "text": "我是贝洛伯格的银鬃铁卫戍卫官，杰帕德•朗道。如果你在城中发现任何异常，都可向我报告。",
-        "filepath": "chinese(prc)/voice/archive_gepard_1.wav"
-    },
-    "a73cd146c43c56db": {
-        "name": "希露瓦",
-        "text": "嗨，{NICKNAME}，我是希露瓦•朗道，贝洛伯格的机械师——当然，这是一份兴趣使然的工作，摇滚演出才是我的主业。",
-        "filepath": "chinese(prc)/voice/archive_serval_1.wav"
-    },
-    "4cd2f26c64b88f98": {
-        "name": "佩拉",
-        "text": "银鬃铁卫情报官，佩拉格娅•谢尔盖耶夫娜前来报到。你可以叫我佩拉。",
-        "filepath": "chinese(prc)/voice/archive_pela_1.wav"
-    },
-    "49d76618ffb3064e": {
-        "name": "希儿",
-        "text": "哟，我是希儿，贝洛伯格下层区「地火」的成员，你要和我一同见证下层区的未来么？",
-        "filepath": "chinese(prc)/voice/archive_seele_1.wav"
-    },
-    "28edc47dd0d2cb37": {
-        "name": "克拉拉",
-        "text": "克拉拉：你好…我是克拉拉，可以成为我的家人么…就像史瓦罗先生一样。\\n史瓦罗：有我在，{NICKNAME}就是你的家人。",
-        "filepath": "chinese(prc)/voice/archive_clara_1.wav"
-    },
-    "67b97e9799c501a2": {
-        "name": "娜塔莎",
-        "text": "你好，我是娜塔莎，贝洛伯格下层区的医生，哪里不舒服么？过来坐吧，让我看看。",
-        "filepath": "chinese(prc)/voice/archive_natasha_1.wav"
-    },
-    "85f9386c14afb7b9": {
-        "name": "虎克",
-        "text": "下层区的大人归地火管，小孩归鼹鼠党管，而我就是鼹鼠党的老大，你可以称呼我为——漆黑的虎克大人！",
-        "filepath": "chinese(prc)/voice/archive_hook_1.wav"
-    },
-    "30f06dffaafd524": {
-        "name": "桑博",
-        "text": "嗨，{NICKNAME}，有我桑博•科斯基在身边，你就相当于同时拥有一个行商、向导、解闷的聊天对象…怎么样，够划算吧？",
-        "filepath": "chinese(prc)/voice/archive_sampo_1.wav"
-    },
-    "4f0abfdc5f3ccf6c": {
-        "name": "青雀",
-        "text": "我是青雀，太卜司的卜者。要找我打牌？行，等我上班时间来好吧？",
-        "filepath": "chinese(prc)/voice/archive_qingque_1.wav"
-    },
-    "ecd1ebfba7c17ce2": {
+    "aba750f822177869": {
         "name": "停云",
-        "text": "小女子名作停云，「罗浮」天舶司商团接渡使。接下来还要多多仰仗恩公啦。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_1.wav"
-    },
-    "6b59db7b5aab52e9": {
-        "name": "景元",
-        "text": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可。",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_1.wav"
-    },
-    "e50d3ca6d229b509": {
-        "name": "素裳",
-        "text": "我叫素裳，最近刚加入云骑军。你有事儿就和我说吧…虽然，我对「罗浮」也不熟，嘿嘿。",
-        "filepath": "chinese(prc)/voice/archive_sushang_1.wav"
-    },
-    "222738fd12cf3129": {
-        "name": "彦卿",
-        "text": "「罗浮」云骑军骁卫彦卿，前来报到！{NICKNAME}老师有空的话，就来同彦卿切磋一下吧？放心，我可不会因为对手是老师您就手下留情。",
-        "filepath": "chinese(prc)/voice/archive_yanqing_1.wav"
-    },
-    "a1d8b21907da4e03": {
-        "name": "白露",
-        "text": "我是白露，丹鼎司的医士。来来，过来让我瞅瞅，你怎么回事，哪儿不舒服啦？",
-        "filepath": "chinese(prc)/voice/archive_bailu_1.wav"
+        "text": "如今茶楼里里外外全靠梦茗一人张罗，世人常道「狐人天生会行商」，哪有那么容易哟。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_20.wav"
     },
     "832e9970392ddc70": {
         "name": "三月七",
@@ -51418,6 +51313,116 @@
         "name": "白露",
         "text": "吃糖么？不吃啊，那我吃啦。",
         "filepath": "chinese(prc)/voice/archive_bailu_2.wav"
+    },
+    "3c207564b4bfbd7": {
+        "name": "三月七",
+        "text": "你好，{NICKNAME}。欢迎入职星穹列车，我是三月七，星穹列车的乘员，也是你的同事。现在，请先拍摄入职照…瞧把你吓的，咱是在开玩笑啦~",
+        "filepath": "chinese(prc)/voice/archive_mar7th_1.wav"
+    },
+    "175f91d0b10f7acb": {
+        "name": "丹恒",
+        "text": "重新介绍一下自己，我叫丹恒，担任列车的护卫，列车的智库也由我维护。",
+        "filepath": "chinese(prc)/voice/archive_danheng_1.wav"
+    },
+    "45af7d385746c6e9": {
+        "name": "姬子",
+        "text": "欢迎上车，{NICKNAME}，我是星穹列车的领航员，姬子。相信我们将会共度一段有趣的旅程。",
+        "filepath": "chinese(prc)/voice/archive_himeko_1.wav"
+    },
+    "d28e14f419b52c84": {
+        "name": "瓦尔特",
+        "text": "你好，我是瓦尔特•杨，遇到任何困难，欢迎随时来找我。",
+        "filepath": "chinese(prc)/voice/archive_welt_1.wav"
+    },
+    "166e6ad72b181fd8": {
+        "name": "阿兰",
+        "text": "你好，{NICKNAME}，我是空间站「黑塔」的防卫科负责人阿兰，在空间站期间，我会全力护你安全。",
+        "filepath": "chinese(prc)/voice/archive_arlan_1.wav"
+    },
+    "c9b8943ead09ff1d": {
+        "name": "艾丝妲",
+        "text": "嗨，{NICKNAME}，我是空间站「黑塔」的站长艾丝妲。要你帮忙的时候，我一定告诉你…你放心，不和你客气。",
+        "filepath": "chinese(prc)/voice/archive_asta_1.wav"
+    },
+    "257f0017b47b46a6": {
+        "name": "黑塔",
+        "text": "我是黑塔，现在很忙，这是远程人偶自动应答模式：你好，你好，大家好，祝你拥有愉快的一天，再见。",
+        "filepath": "chinese(prc)/voice/archive_herta_1.wav"
+    },
+    "189e9233254c15cd": {
+        "name": "布洛妮娅",
+        "text": "我是贝洛伯格「大守护者」继承人，代行银鬃铁卫统领，布洛妮娅•兰德…方才只是例行的自我介绍，叫我布洛妮娅就好。",
+        "filepath": "chinese(prc)/voice/archive_bronya_1.wav"
+    },
+    "2f6514ec2dbb5b5f": {
+        "name": "杰帕德",
+        "text": "我是贝洛伯格的银鬃铁卫戍卫官，杰帕德•朗道。如果你在城中发现任何异常，都可向我报告。",
+        "filepath": "chinese(prc)/voice/archive_gepard_1.wav"
+    },
+    "a73cd146c43c56db": {
+        "name": "希露瓦",
+        "text": "嗨，{NICKNAME}，我是希露瓦•朗道，贝洛伯格的机械师——当然，这是一份兴趣使然的工作，摇滚演出才是我的主业。",
+        "filepath": "chinese(prc)/voice/archive_serval_1.wav"
+    },
+    "4cd2f26c64b88f98": {
+        "name": "佩拉",
+        "text": "银鬃铁卫情报官，佩拉格娅•谢尔盖耶夫娜前来报到。你可以叫我佩拉。",
+        "filepath": "chinese(prc)/voice/archive_pela_1.wav"
+    },
+    "49d76618ffb3064e": {
+        "name": "希儿",
+        "text": "哟，我是希儿，贝洛伯格下层区「地火」的成员，你要和我一同见证下层区的未来么？",
+        "filepath": "chinese(prc)/voice/archive_seele_1.wav"
+    },
+    "28edc47dd0d2cb37": {
+        "name": "克拉拉",
+        "text": "克拉拉：你好…我是克拉拉，可以成为我的家人么…就像史瓦罗先生一样。\\n史瓦罗：有我在，{NICKNAME}就是你的家人。",
+        "filepath": "chinese(prc)/voice/archive_clara_1.wav"
+    },
+    "67b97e9799c501a2": {
+        "name": "娜塔莎",
+        "text": "你好，我是娜塔莎，贝洛伯格下层区的医生，哪里不舒服么？过来坐吧，让我看看。",
+        "filepath": "chinese(prc)/voice/archive_natasha_1.wav"
+    },
+    "85f9386c14afb7b9": {
+        "name": "虎克",
+        "text": "下层区的大人归地火管，小孩归鼹鼠党管，而我就是鼹鼠党的老大，你可以称呼我为——漆黑的虎克大人！",
+        "filepath": "chinese(prc)/voice/archive_hook_1.wav"
+    },
+    "30f06dffaafd524": {
+        "name": "桑博",
+        "text": "嗨，{NICKNAME}，有我桑博•科斯基在身边，你就相当于同时拥有一个行商、向导、解闷的聊天对象…怎么样，够划算吧？",
+        "filepath": "chinese(prc)/voice/archive_sampo_1.wav"
+    },
+    "4f0abfdc5f3ccf6c": {
+        "name": "青雀",
+        "text": "我是青雀，太卜司的卜者。要找我打牌？行，等我上班时间来好吧？",
+        "filepath": "chinese(prc)/voice/archive_qingque_1.wav"
+    },
+    "ecd1ebfba7c17ce2": {
+        "name": "停云",
+        "text": "小女子名作停云，「罗浮」天舶司商团接渡使。接下来还要多多仰仗恩公啦。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_1.wav"
+    },
+    "6b59db7b5aab52e9": {
+        "name": "景元",
+        "text": "我是「罗浮」云骑将军景元。不必拘谨，「将军」只是一时的身份，你称呼我景元便可。",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_1.wav"
+    },
+    "e50d3ca6d229b509": {
+        "name": "素裳",
+        "text": "我叫素裳，最近刚加入云骑军。你有事儿就和我说吧…虽然，我对「罗浮」也不熟，嘿嘿。",
+        "filepath": "chinese(prc)/voice/archive_sushang_1.wav"
+    },
+    "222738fd12cf3129": {
+        "name": "彦卿",
+        "text": "「罗浮」云骑军骁卫彦卿，前来报到！{NICKNAME}老师有空的话，就来同彦卿切磋一下吧？放心，我可不会因为对手是老师您就手下留情。",
+        "filepath": "chinese(prc)/voice/archive_yanqing_1.wav"
+    },
+    "a1d8b21907da4e03": {
+        "name": "白露",
+        "text": "我是白露，丹鼎司的医士。来来，过来让我瞅瞅，你怎么回事，哪儿不舒服啦？",
+        "filepath": "chinese(prc)/voice/archive_bailu_1.wav"
     },
     "4ebf367f5cdf9f1": {
         "name": "三月七",
@@ -51969,116 +51974,6 @@
         "text": "世上只有一种顽疾我爱莫能助，就是…长•不•高…哼！",
         "filepath": "chinese(prc)/voice/archive_bailu_7.wav"
     },
-    "1fd6951cc6afb2e6": {
-        "name": "三月七",
-        "text": "拍照，写日记，还用说嘛~",
-        "filepath": "chinese(prc)/voice/archive_mar7th_8.wav"
-    },
-    "a3c901b5712604a": {
-        "name": "丹恒",
-        "text": "若非查阅智库，请不要随意进入资料室，资料室的功能不包含聊天。",
-        "filepath": "chinese(prc)/voice/archive_danheng_8.wav"
-    },
-    "38c25382fd76f710": {
-        "name": "姬子",
-        "text": "除了丹恒，大家似乎都对我的咖啡颇有微词，你的评价呢？…我想，黑咖啡的「黑」不是黑泥的「黑」。",
-        "filepath": "chinese(prc)/voice/archive_himeko_8.wav"
-    },
-    "f4f7bf2f7469ebbd": {
-        "name": "瓦尔特",
-        "text": "{NICKNAME}你就像动画里的主角，伙伴们都自然而然地凝聚在你的身边…别误会，只是感慨一下，我亲自冒险的机会可能又少了……",
-        "filepath": "chinese(prc)/voice/archive_welt_8.wav"
-    },
-    "83f56cf2c1b3cae6": {
-        "name": "阿兰",
-        "text": "在通用图鉴中找不到空间站里收容的大剑碎片…它一定很特殊吧。",
-        "filepath": "chinese(prc)/voice/archive_arlan_10.wav"
-    },
-    "fc0c6a05c6549664": {
-        "name": "艾丝妲",
-        "text": "持续不断地将资金投入空间站的建设，完善员工福利，形成良性循环，同时满足站长，也就是本人自身必要的购物需求。",
-        "filepath": "chinese(prc)/voice/archive_asta_8.wav"
-    },
-    "604725136346697": {
-        "name": "黑塔",
-        "text": "既不解题又不写稿，那就别怪自己的人生无趣咯？",
-        "filepath": "chinese(prc)/voice/archive_herta_8.wav"
-    },
-    "4b2772cd1ecaac1e": {
-        "name": "布洛妮娅",
-        "text": "在前线待的时间久了，想回到官邸休息的愿望就会变得强烈。可一旦真的在床上躺下，对前线战况的担忧又会涌上心头…或许这就是母亲说的「责任」吧？",
-        "filepath": "chinese(prc)/voice/archive_bronya_13.wav"
-    },
-    "da5776444e6b7090": {
-        "name": "杰帕德",
-        "text": "朗道家世代为大守护者效力，这是荣誉，亦是责任。只有成为民众可以仰赖的盾牌，才能安心接受这「筑城者」的称谓带来的名誉。",
-        "filepath": "chinese(prc)/voice/archive_gepard_13.wav"
-    },
-    "9a198f916a3ecf1a": {
-        "name": "希露瓦",
-        "text": "总有人问我机械屋停业怎么赚钱的问题，这答案难道不是显而易见——不赚钱啊。",
-        "filepath": "chinese(prc)/voice/archive_serval_8.wav"
-    },
-    "c19d7178f8d5ac0f": {
-        "name": "佩拉",
-        "text": "关于我的全名，军中至少流传着<unbreak>32</unbreak>种说法，至于我为什么知道…这就是情报官的能力。",
-        "filepath": "chinese(prc)/voice/archive_pela_11.wav"
-    },
-    "1e312dc400592335": {
-        "name": "希儿",
-        "text": "头儿说得没错，对付不讲道理的家伙，刀尖子就是道理。",
-        "filepath": "chinese(prc)/voice/archive_seele_15.wav"
-    },
-    "1857b244f935419": {
-        "name": "克拉拉",
-        "text": "克拉拉的机器伙伴们，虽然有时说话有些粗鲁，但都是不会说谎的乖孩子哦。",
-        "filepath": "chinese(prc)/voice/archive_clara_12.wav"
-    },
-    "8a2320d2f479b373": {
-        "name": "娜塔莎",
-        "text": "地下的人们已经习惯苦中作乐，所以我总会提醒自己，我们已经过上自己想要的生活么？",
-        "filepath": "chinese(prc)/voice/archive_natasha_8.wav"
-    },
-    "2c600eedceeef5b9": {
-        "name": "虎克",
-        "text": "大人们总是用「长大以后就明白的道理」来糊弄虎克…虎克反倒觉得，大人们有很多「长大以后就忘记了的道理」！不信，就来比比谁的道理多！",
-        "filepath": "chinese(prc)/voice/archive_hook_14.wav"
-    },
-    "c57aee45e8ffba17": {
-        "name": "桑博",
-        "text": "别看贝洛伯格前不着村后不着店，越是在这种地方，人们越是只守着自己的半杯羹——那我就越有乐子可看啦。",
-        "filepath": "chinese(prc)/voice/archive_sampo_15.wav"
-    },
-    "1d78698fe2f1fa95": {
-        "name": "青雀",
-        "text": "「快乐工作的基本要诀」一共就三条——不主动，不拒绝，不负责。来，试试看？",
-        "filepath": "chinese(prc)/voice/archive_qingque_8.wav"
-    },
-    "f3b8e3702762db3": {
-        "name": "停云",
-        "text": "晚些时候，得闲就顺路去趟不夜侯，图热闹就聊上几句，图清闲就看人猜茶，权当练眼力的小添头，也有趣得很。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_8.wav"
-    },
-    "5e6cb1c600db8310": {
-        "name": "景元",
-        "text": "我平生最怕麻烦，麻烦不只分大小，还分远近。如何布局谋划，还得劳神费力哪……",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_8.wav"
-    },
-    "d4bb12f175787030": {
-        "name": "素裳",
-        "text": "唉，身在军人世家可不好过呀。我娘从小抓我习武，晨钟不响就要起床和她对招，大清早就精疲力尽了，到黉学上课时只能呼呼大睡，先生们都叫我李大枕头……",
-        "filepath": "chinese(prc)/voice/archive_sushang_8.wav"
-    },
-    "153b0f47b9011550": {
-        "name": "彦卿",
-        "text": "有时购入新剑，看中了不同的剑鞘，均很相配，不得已只能通通买了回去，但无奈一柄剑又只能配一副剑鞘……",
-        "filepath": "chinese(prc)/voice/archive_yanqing_8.wav"
-    },
-    "d42c4fe0212485b2": {
-        "name": "白露",
-        "text": "把头埋入水中，不过也就一方小小的天地，却感觉可以比平时更加自由地呼吸，超脱了水的边界……",
-        "filepath": "chinese(prc)/voice/archive_bailu_8.wav"
-    },
     "a193f714834fddcf": {
         "name": "三月七",
         "text": "要是没人和我聊天，我就闷得要命。但在列车上的时候，姬子很忙，杨叔很忙，帕姆很忙，丹恒倒是不忙，可他不喜欢聊天……",
@@ -52299,6 +52194,471 @@
         "text": "将军找我看病，大都是什么「眼睛困得睁不开」之类的病症，然后就问问我近况，稍坐一会儿便走，有时连药都不拿……",
         "filepath": "chinese(prc)/voice/archive_bailu_10.wav"
     },
+    "1fd6951cc6afb2e6": {
+        "name": "三月七",
+        "text": "拍照，写日记，还用说嘛~",
+        "filepath": "chinese(prc)/voice/archive_mar7th_8.wav"
+    },
+    "a3c901b5712604a": {
+        "name": "丹恒",
+        "text": "若非查阅智库，请不要随意进入资料室，资料室的功能不包含聊天。",
+        "filepath": "chinese(prc)/voice/archive_danheng_8.wav"
+    },
+    "38c25382fd76f710": {
+        "name": "姬子",
+        "text": "除了丹恒，大家似乎都对我的咖啡颇有微词，你的评价呢？…我想，黑咖啡的「黑」不是黑泥的「黑」。",
+        "filepath": "chinese(prc)/voice/archive_himeko_8.wav"
+    },
+    "f4f7bf2f7469ebbd": {
+        "name": "瓦尔特",
+        "text": "{NICKNAME}你就像动画里的主角，伙伴们都自然而然地凝聚在你的身边…别误会，只是感慨一下，我亲自冒险的机会可能又少了……",
+        "filepath": "chinese(prc)/voice/archive_welt_8.wav"
+    },
+    "83f56cf2c1b3cae6": {
+        "name": "阿兰",
+        "text": "在通用图鉴中找不到空间站里收容的大剑碎片…它一定很特殊吧。",
+        "filepath": "chinese(prc)/voice/archive_arlan_10.wav"
+    },
+    "fc0c6a05c6549664": {
+        "name": "艾丝妲",
+        "text": "持续不断地将资金投入空间站的建设，完善员工福利，形成良性循环，同时满足站长，也就是本人自身必要的购物需求。",
+        "filepath": "chinese(prc)/voice/archive_asta_8.wav"
+    },
+    "604725136346697": {
+        "name": "黑塔",
+        "text": "既不解题又不写稿，那就别怪自己的人生无趣咯？",
+        "filepath": "chinese(prc)/voice/archive_herta_8.wav"
+    },
+    "4b2772cd1ecaac1e": {
+        "name": "布洛妮娅",
+        "text": "在前线待的时间久了，想回到官邸休息的愿望就会变得强烈。可一旦真的在床上躺下，对前线战况的担忧又会涌上心头…或许这就是母亲说的「责任」吧？",
+        "filepath": "chinese(prc)/voice/archive_bronya_13.wav"
+    },
+    "da5776444e6b7090": {
+        "name": "杰帕德",
+        "text": "朗道家世代为大守护者效力，这是荣誉，亦是责任。只有成为民众可以仰赖的盾牌，才能安心接受这「筑城者」的称谓带来的名誉。",
+        "filepath": "chinese(prc)/voice/archive_gepard_13.wav"
+    },
+    "9a198f916a3ecf1a": {
+        "name": "希露瓦",
+        "text": "总有人问我机械屋停业怎么赚钱的问题，这答案难道不是显而易见——不赚钱啊。",
+        "filepath": "chinese(prc)/voice/archive_serval_8.wav"
+    },
+    "c19d7178f8d5ac0f": {
+        "name": "佩拉",
+        "text": "关于我的全名，军中至少流传着<unbreak>32</unbreak>种说法，至于我为什么知道…这就是情报官的能力。",
+        "filepath": "chinese(prc)/voice/archive_pela_11.wav"
+    },
+    "1e312dc400592335": {
+        "name": "希儿",
+        "text": "头儿说得没错，对付不讲道理的家伙，刀尖子就是道理。",
+        "filepath": "chinese(prc)/voice/archive_seele_15.wav"
+    },
+    "1857b244f935419": {
+        "name": "克拉拉",
+        "text": "克拉拉的机器伙伴们，虽然有时说话有些粗鲁，但都是不会说谎的乖孩子哦。",
+        "filepath": "chinese(prc)/voice/archive_clara_12.wav"
+    },
+    "8a2320d2f479b373": {
+        "name": "娜塔莎",
+        "text": "地下的人们已经习惯苦中作乐，所以我总会提醒自己，我们已经过上自己想要的生活么？",
+        "filepath": "chinese(prc)/voice/archive_natasha_8.wav"
+    },
+    "2c600eedceeef5b9": {
+        "name": "虎克",
+        "text": "大人们总是用「长大以后就明白的道理」来糊弄虎克…虎克反倒觉得，大人们有很多「长大以后就忘记了的道理」！不信，就来比比谁的道理多！",
+        "filepath": "chinese(prc)/voice/archive_hook_14.wav"
+    },
+    "c57aee45e8ffba17": {
+        "name": "桑博",
+        "text": "别看贝洛伯格前不着村后不着店，越是在这种地方，人们越是只守着自己的半杯羹——那我就越有乐子可看啦。",
+        "filepath": "chinese(prc)/voice/archive_sampo_15.wav"
+    },
+    "1d78698fe2f1fa95": {
+        "name": "青雀",
+        "text": "「快乐工作的基本要诀」一共就三条——不主动，不拒绝，不负责。来，试试看？",
+        "filepath": "chinese(prc)/voice/archive_qingque_8.wav"
+    },
+    "f3b8e3702762db3": {
+        "name": "停云",
+        "text": "晚些时候，得闲就顺路去趟不夜侯，图热闹就聊上几句，图清闲就看人猜茶，权当练眼力的小添头，也有趣得很。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_8.wav"
+    },
+    "5e6cb1c600db8310": {
+        "name": "景元",
+        "text": "我平生最怕麻烦，麻烦不只分大小，还分远近。如何布局谋划，还得劳神费力哪……",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_8.wav"
+    },
+    "d4bb12f175787030": {
+        "name": "素裳",
+        "text": "唉，身在军人世家可不好过呀。我娘从小抓我习武，晨钟不响就要起床和她对招，大清早就精疲力尽了，到黉学上课时只能呼呼大睡，先生们都叫我李大枕头……",
+        "filepath": "chinese(prc)/voice/archive_sushang_8.wav"
+    },
+    "153b0f47b9011550": {
+        "name": "彦卿",
+        "text": "有时购入新剑，看中了不同的剑鞘，均很相配，不得已只能通通买了回去，但无奈一柄剑又只能配一副剑鞘……",
+        "filepath": "chinese(prc)/voice/archive_yanqing_8.wav"
+    },
+    "d42c4fe0212485b2": {
+        "name": "白露",
+        "text": "把头埋入水中，不过也就一方小小的天地，却感觉可以比平时更加自由地呼吸，超脱了水的边界……",
+        "filepath": "chinese(prc)/voice/archive_bailu_8.wav"
+    },
+    "fca630f9f7819eb9": {
+        "name": "三月七",
+        "text": "听说杨叔曾经是秘密组织的首领，拯救过星球，当过老师，还画过动画的原画！哎，简直是外星人了……",
+        "filepath": "chinese(prc)/voice/archive_mar7th_12.wav"
+    },
+    "de4673bf1d0c48f5": {
+        "name": "丹恒",
+        "text": "也许是我的直觉：别惹帕姆。",
+        "filepath": "chinese(prc)/voice/archive_danheng_12.wav"
+    },
+    "fbcabadc664b5f1b": {
+        "name": "姬子",
+        "text": "在帕姆眼里，我一直就是个列车维修工吧。",
+        "filepath": "chinese(prc)/voice/archive_himeko_12.wav"
+    },
+    "2e286c6fa90ee94c": {
+        "name": "瓦尔特",
+        "text": "无论何时需要帮助，帕姆都会及时赶到，不过请不要故意寻它开心，上一个这么做的人已经……",
+        "filepath": "chinese(prc)/voice/archive_welt_12.wav"
+    },
+    "f11f842efbb45f8e": {
+        "name": "黑塔",
+        "text": "多无聊的东西送给她，过一阵子回到我手上，又会变得有趣起来。",
+        "filepath": "chinese(prc)/voice/archive_herta_12.wav"
+    },
+    "f8f614c616db3d27": {
+        "name": "布洛妮娅",
+        "text": "那场相遇本身或许是场灾难，却是一个全新未来的开始…要是被希儿听到了，又要说我在讲什么大道理了吧。",
+        "filepath": "chinese(prc)/voice/archive_bronya_12.wav"
+    },
+    "5c14d03c0b0b8e11": {
+        "name": "杰帕德",
+        "text": "此人颇为狡猾。根据市民报案线索，他不知从哪搞了些古代遗物，也未全数倒卖，手头自留了几件，专门用来骗人。",
+        "filepath": "chinese(prc)/voice/archive_gepard_12.wav"
+    },
+    "93cfb85786c0ee45": {
+        "name": "希露瓦",
+        "text": "我认识的可可利亚会去屋顶上听我唱歌，但…「大守护者」不会。",
+        "filepath": "chinese(prc)/voice/archive_serval_12.wav"
+    },
+    "48a95fdb7a0ca246": {
+        "name": "希儿",
+        "text": "别看她一天天到处疯玩，说不定哪天真能玩出些名堂来。",
+        "filepath": "chinese(prc)/voice/archive_seele_12.wav"
+    },
+    "8ccd91b0df641522": {
+        "name": "娜塔莎",
+        "text": "以我对桑博的了解，他最不喜欢欠人情，总会想办法还上——人情这种东西，时间拖得越久，越难估价。",
+        "filepath": "chinese(prc)/voice/archive_natasha_12.wav"
+    },
+    "b925c2bd16fbb6eb": {
+        "name": "虎克",
+        "text": "希儿姐姐说话声音很大，但有时却说不过虎克呢，嘿嘿~",
+        "filepath": "chinese(prc)/voice/archive_hook_12.wav"
+    },
+    "9752203ef5de9a6c": {
+        "name": "桑博",
+        "text": "咱俩经常见面，我跑他追。老实说，这种猫鼠游戏玩久了也…有点上头，嘿嘿。",
+        "filepath": "chinese(prc)/voice/archive_sampo_12.wav"
+    },
+    "4b0808a6b68a6fe6": {
+        "name": "青雀",
+        "text": "有次见停云小姐在牌馆前驻足打量，便留她打了一盘。停云小姐人好看，打牌也好看，那天牌桌前人满为患，热情高涨，店主输得落花流水，表演效果拉满。",
+        "filepath": "chinese(prc)/voice/archive_qingque_14.wav"
+    },
+    "fc8e96e422fb1e78": {
+        "name": "停云",
+        "text": "无论是驾驶星槎亦或统领天舶司，仙舟的航向上始终都有驭空大人的身影。论「使舵」的本领，小女子还所差甚远。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_14.wav"
+    },
+    "fcbb32ed1aa705a9": {
+        "name": "景元",
+        "text": "正是像停云小姐这样的接渡使往来周旋，仙舟的贸易才能有如今的繁盛。",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_14.wav"
+    },
+    "4a526fc9294c9e49": {
+        "name": "素裳",
+        "text": "我在好多间铺子都见着停云姑娘，还当她是客人，想着这姑娘好生能买…后来才知道，那铺子是人家自己的！",
+        "filepath": "chinese(prc)/voice/archive_sushang_14.wav"
+    },
+    "17b3d65b767dde69": {
+        "name": "彦卿",
+        "text": "有次去天舶司登门拜访，撞见驭空大人独自面对皮侯，凝视许久。虽然最终一箭未射，但她或许早在心中拉了千百次弓吧。",
+        "filepath": "chinese(prc)/voice/archive_yanqing_14.wav"
+    },
+    "42b43b401eb10577": {
+        "name": "白露",
+        "text": "哎呀，我就算足不出户，也可以听见她的声音，「急人所急，有求必应」——对吧？",
+        "filepath": "chinese(prc)/voice/archive_bailu_14.wav"
+    },
+    "8c6202f12b355956": {
+        "name": "三月七",
+        "text": "美丽的姬子姐姐，成熟，可靠，又优雅，还是列车的领航员…以后，我也可以成为那样的大人吧！不过咱现在这样也很好~",
+        "filepath": "chinese(prc)/voice/archive_mar7th_11.wav"
+    },
+    "57c315b5b2d94b92": {
+        "name": "丹恒",
+        "text": "瓦尔特先生一向很关注别人，却从未问过我的事。",
+        "filepath": "chinese(prc)/voice/archive_danheng_11.wav"
+    },
+    "7b006cf653fe33a4": {
+        "name": "姬子",
+        "text": "瓦尔特似乎担心自己跟不上年轻人的脚步，依我看，他自个儿内心也年轻得很…",
+        "filepath": "chinese(prc)/voice/archive_himeko_11.wav"
+    },
+    "ed3a1a5791458c63": {
+        "name": "瓦尔特",
+        "text": "姬子是那种…会发光的人。虽然我们是在重走列车过去的航路，但只要看到姬子，你就能看到她的梦想在闪光，她仿佛一开始就在列车上，一路驶向她的星穹。",
+        "filepath": "chinese(prc)/voice/archive_welt_11.wav"
+    },
+    "bc2c917f633e9390": {
+        "name": "艾丝妲",
+        "text": "任何人如果觉得自己可以像黑塔女士那样任性妄为，建议他先思考一下自己是否具备黑塔女士那样的智慧~",
+        "filepath": "chinese(prc)/voice/archive_asta_11.wav"
+    },
+    "776cd23865b9b1b1": {
+        "name": "黑塔",
+        "text": "其他藏室什么时候能找到艾丝妲这样的管理者，我就好甩手不管了。",
+        "filepath": "chinese(prc)/voice/archive_herta_11.wav"
+    },
+    "4c50a6dec94b71c0": {
+        "name": "布洛妮娅",
+        "text": "我敬重母亲，只是她和我记忆中的模样并不完全相同，或许，只是我把母亲想象成了另一个人……",
+        "filepath": "chinese(prc)/voice/archive_bronya_11.wav"
+    },
+    "2a8602351507456e": {
+        "name": "杰帕德",
+        "text": "我始终坚信，没有比大守护者更熟悉、更热爱这座城市的人了。",
+        "filepath": "chinese(prc)/voice/archive_gepard_11.wav"
+    },
+    "395e9a4f58000a22": {
+        "name": "希露瓦",
+        "text": "布洛妮娅是个好孩子，不愧是可可利亚教育出来的。最近不太见面了，我还挺想她的。",
+        "filepath": "chinese(prc)/voice/archive_serval_11.wav"
+    },
+    "b8ed8de44658e7a9": {
+        "name": "希儿",
+        "text": "找他办事还行，但谁要想和他做朋友，就是和自己过不去。",
+        "filepath": "chinese(prc)/voice/archive_seele_11.wav"
+    },
+    "91414d1b83470eb6": {
+        "name": "克拉拉",
+        "text": "虎克邀请我加入鼹鼠党，但…如果要玩捉迷藏的话，史瓦罗先生怎么办……",
+        "filepath": "chinese(prc)/voice/archive_clara_11.wav"
+    },
+    "e73eafb90e24f945": {
+        "name": "娜塔莎",
+        "text": "史瓦罗存护的是「人类」，但他并不关心「人类」是怎么想的。",
+        "filepath": "chinese(prc)/voice/archive_natasha_11.wav"
+    },
+    "c4934d5c93c7274": {
+        "name": "虎克",
+        "text": "哪里都能碰见桑博叔叔，他也在到处冒险么？",
+        "filepath": "chinese(prc)/voice/archive_hook_11.wav"
+    },
+    "1a64e246a15e703": {
+        "name": "桑博",
+        "text": "希儿小姐能用武力对付我就绝不肯动嘴皮子，这到底是我的问题还是她的问题？",
+        "filepath": "chinese(prc)/voice/archive_sampo_11.wav"
+    },
+    "cbd2568cc8d79b55": {
+        "name": "青雀",
+        "text": "天舶司的大人物，从前线退下来还得不了清闲，这官不好当啊。",
+        "filepath": "chinese(prc)/voice/archive_qingque_13.wav"
+    },
+    "b11a4ab27a7fc2b": {
+        "name": "停云",
+        "text": "曾送了些自觉稀奇的玩意儿给他，那孩子也会恭恭敬敬地道谢收下。直到小女子瞧见他在工造司挑选剑器，那眉飞色舞的样子…小孩子还是很好懂的。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_13.wav"
+    },
+    "dee174c36d576dd2": {
+        "name": "景元",
+        "text": "人人都当驭空司舵是退休了…殊不知她在放下最热爱的飞行后，选择了另一条更艰难的道路。",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_13.wav"
+    },
+    "2912b19f7919dd72": {
+        "name": "素裳",
+        "text": "我听云骑老兵说过「星火之狐」的传说，作为罗浮第一王牌飞行士，驭空大人留下的星槎纪录至今无人能破！没想到，见着面才发现，她说话还挺文文气气的~",
+        "filepath": "chinese(prc)/voice/archive_sushang_13.wav"
+    },
+    "f6731831c6496992": {
+        "name": "彦卿",
+        "text": "素裳姑娘的剑是好剑，但好剑未必称手。要多使出它的一分功力，得多花十倍气力。",
+        "filepath": "chinese(prc)/voice/archive_yanqing_13.wav"
+    },
+    "bc66ed36b4abb34c": {
+        "name": "白露",
+        "text": "停云小姐可以承受比一般人更激烈的按摩治疗手法，所以我从来不会对她「手」下留情~",
+        "filepath": "chinese(prc)/voice/archive_bailu_13.wav"
+    },
+    "7782d70237fe5838": {
+        "name": "三月七",
+        "text": "列车长就是最棒的！",
+        "filepath": "chinese(prc)/voice/archive_mar7th_13.wav"
+    },
+    "3a877e61028047f4": {
+        "name": "希露瓦",
+        "text": "他嘛，我就等着老弟什么时候能逮着他。",
+        "filepath": "chinese(prc)/voice/archive_serval_13.wav"
+    },
+    "cdccc1d3398ff62f": {
+        "name": "希儿",
+        "text": "要不是头儿，还有没有我这号人都不好说。",
+        "filepath": "chinese(prc)/voice/archive_seele_13.wav"
+    },
+    "3ad303a9d7a3976b": {
+        "name": "娜塔莎",
+        "text": "有时站在诊所的门口，看她在外面闹闹腾腾的样子，就不觉得累了。",
+        "filepath": "chinese(prc)/voice/archive_natasha_13.wav"
+    },
+    "b2050c41ebc34a2": {
+        "name": "虎克",
+        "text": "虎克最喜欢老爹了！等虎克挖到了宝藏，要给老爹盖一间大房子！",
+        "filepath": "chinese(prc)/voice/archive_hook_13.wav"
+    },
+    "2d03a361497e53d": {
+        "name": "桑博",
+        "text": "以前关系不错，现在的关系…可能还不及和她弟弟。",
+        "filepath": "chinese(prc)/voice/archive_sampo_13.wav"
+    },
+    "ccc56a9e732a9acf": {
+        "name": "青雀",
+        "text": "谁？听名字像是外来者…我们这边外来者可多了，在鉴爻轩也经常碰到，多半是来求自己「求长生」成功…嗯，你没听错，我说了两个「求」。",
+        "filepath": "chinese(prc)/voice/archive_qingque_15.wav"
+    },
+    "7e4bf0dbdf9b3bf9": {
+        "name": "停云",
+        "text": "天外的行商？居然不在「鸣火」的名录上么…奇怪，我怎么记不清了。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_15.wav"
+    },
+    "a71018f699790168": {
+        "name": "景元",
+        "text": "我也见过不少行商，但你不觉得，像他这般不急于做成生意的行商并不多么？",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_15.wav"
+    },
+    "9c82d5d0313a6788": {
+        "name": "素裳",
+        "text": "是牌馆那打牌的姑娘吧？她那摸牌打牌的手劲，没个把年头练不出来…打牌打到这份上，都能算是一门武艺啦。",
+        "filepath": "chinese(prc)/voice/archive_sushang_15.wav"
+    },
+    "bea1bc64f26afd28": {
+        "name": "彦卿",
+        "text": "符太卜想当将军…别的不说，先改改她一开口大家就想睡觉的毛病吧。",
+        "filepath": "chinese(prc)/voice/archive_yanqing_15.wav"
+    },
+    "bd90d9485f2db16e": {
+        "name": "白露",
+        "text": "我只恨没有早点结识「帝垣琼玉」的发明者…如此强身健脑的益智活动，理应发扬光大！",
+        "filepath": "chinese(prc)/voice/archive_bailu_15.wav"
+    },
+    "3a3164ea2347303f": {
+        "name": "三月七",
+        "text": "丹恒…他在我之前上的车，从没透露过自己的来历…你要是有机会，也帮我打探打探？",
+        "filepath": "chinese(prc)/voice/archive_mar7th_10.wav"
+    },
+    "d9b787ad6fa8d4db": {
+        "name": "丹恒",
+        "text": "任何和列车有关的问题，最明智的判断就是听从姬子的判断。",
+        "filepath": "chinese(prc)/voice/archive_danheng_10.wav"
+    },
+    "fcf4a6ee10cd5d35": {
+        "name": "姬子",
+        "text": "那个孩子很谨慎，可能是一个人过惯了，不喜欢麻烦别人，也生怕连累到别人。所以我请他担任护卫和维护智库，如果无事可做，他或许并不愿意上车。",
+        "filepath": "chinese(prc)/voice/archive_himeko_10.wav"
+    },
+    "3fa1685e99626f1a": {
+        "name": "瓦尔特",
+        "text": "他很安全。我知道他有所顾虑…然而丹恒现在是列车组的一员，我和姬子不会让任何人伤害他。",
+        "filepath": "chinese(prc)/voice/archive_welt_10.wav"
+    },
+    "3de9eb771fdeb111": {
+        "name": "艾丝妲",
+        "text": "我模仿一下平时的阿兰：「大家听从艾丝妲站长的判断。」然后当我叮嘱他：「阿兰，你也小心一点。」他说：「没事，我有自己的判断。」",
+        "filepath": "chinese(prc)/voice/archive_asta_10.wav"
+    },
+    "f2497840a6366b30": {
+        "name": "黑塔",
+        "text": "艾丝妲资助过一些特殊的孩子，阿兰也是其中之一吧。",
+        "filepath": "chinese(prc)/voice/archive_herta_10.wav"
+    },
+    "a56280d54d5de5c1": {
+        "name": "布洛妮娅",
+        "text": "每次夸奖她的时候，她都很努力地板着脸，不让自己露出开心的表情…我看得出来，因为我也这么练习过。",
+        "filepath": "chinese(prc)/voice/archive_bronya_10.wav"
+    },
+    "afa9642cd48a9977": {
+        "name": "杰帕德",
+        "text": "听说我不在家的时候，姐姐开始把花拜托给佩拉照顾了…希望没给她添太多麻烦。",
+        "filepath": "chinese(prc)/voice/archive_gepard_10.wav"
+    },
+    "e7640c48503f8c6b": {
+        "name": "希露瓦",
+        "text": "会打鼓会养花会写报告，这世上还有比佩拉更靠谱的好姑娘吗？",
+        "filepath": "chinese(prc)/voice/archive_serval_10.wav"
+    },
+    "3fe00f813c358126": {
+        "name": "佩拉",
+        "text": "杰帕德戍卫官内外如一，十分可靠。对于他养花的兴趣…我姑且只能表示尊重与祝福。",
+        "filepath": "chinese(prc)/voice/archive_pela_10.wav"
+    },
+    "634273edc52ae368": {
+        "name": "希儿",
+        "text": "史瓦罗常把「人类喜欢无休止的争斗」挂在嘴上，但如果只靠退让，难道就能获得和平？",
+        "filepath": "chinese(prc)/voice/archive_seele_10.wav"
+    },
+    "ea532f120759901f": {
+        "name": "克拉拉",
+        "text": "其实…史瓦罗先生的手，可以变成帮克拉拉吹头发的机器，还可以把大石块切成小桌子和小椅子呢……",
+        "filepath": "chinese(prc)/voice/archive_clara_10.wav"
+    },
+    "8df675c289e452f4": {
+        "name": "娜塔莎",
+        "text": "听说她最近一直在帮忙照顾受伤的流浪者，非常了不起…我刚见到克拉拉的时候，虽然她会熟练地给机器人替换零件，自己的伤口却发炎了，看得我心疼坏了。",
+        "filepath": "chinese(prc)/voice/archive_natasha_10.wav"
+    },
+    "65916ecc4d7d18c5": {
+        "name": "虎克",
+        "text": "虎克的洞洞机，比史瓦罗的拳头还要大！哼！",
+        "filepath": "chinese(prc)/voice/archive_hook_10.wav"
+    },
+    "a8cb1c2de632203a": {
+        "name": "桑博",
+        "text": "红衣服小妹妹是真的厉害，她怎么能和那大铁疙瘩聊起来的？",
+        "filepath": "chinese(prc)/voice/archive_sampo_10.wav"
+    },
+    "49de1c950c0871c4": {
+        "name": "青雀",
+        "text": "我一闲下来，太卜大人就会立刻出现并塞给我一些细碎工作…看来我还得再琢磨琢磨时间管理这门学问……",
+        "filepath": "chinese(prc)/voice/archive_qingque_12.wav"
+    },
+    "607232b2324ba3e2": {
+        "name": "停云",
+        "text": "要说四两拨千斤的手段，将军大人最是得其精髓，小女子自愧不如。",
+        "filepath": "chinese(prc)/voice/archive_tingyun_12.wav"
+    },
+    "60d4e6bb2a25431b": {
+        "name": "景元",
+        "text": "符卿的心思我明白，所以还得多让她等一等，她要是有耐心等下去，便到时机了。",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_12.wav"
+    },
+    "ae6c239738cadbbb": {
+        "name": "素裳",
+        "text": "每次听符太卜讲话，我就在那犯嘀咕，同样是仙舟人，我俩说的真是一种语言么？",
+        "filepath": "chinese(prc)/voice/archive_sushang_12.wav"
+    },
+    "78678a298318f2db": {
+        "name": "彦卿",
+        "text": "停云姑娘主办的「得物志」，如有关于剑器的部分，也会来找我写荐语呢。",
+        "filepath": "chinese(prc)/voice/archive_yanqing_12.wav"
+    },
+    "2b4b072dd648271d": {
+        "name": "白露",
+        "text": "驭空司舵…每每见我，总说自己已经放下过往了，但其实还是放不下吧。",
+        "filepath": "chinese(prc)/voice/archive_bailu_12.wav"
+    },
     "db6672d0474edda2": {
         "name": "三月七",
         "text": "即使看起来很「黑暗」的料理，也要拿出「开拓」的精神来面对！但，实话实说，砂鳗冻和姬子泡的咖啡真不太好……",
@@ -52409,361 +52769,6 @@
         "text": "符太卜一加班，搭配明目药茶的糖粉库存总是火速告急…",
         "filepath": "chinese(prc)/voice/archive_bailu_11.wav"
     },
-    "3a3164ea2347303f": {
-        "name": "三月七",
-        "text": "丹恒…他在我之前上的车，从没透露过自己的来历…你要是有机会，也帮我打探打探？",
-        "filepath": "chinese(prc)/voice/archive_mar7th_10.wav"
-    },
-    "d9b787ad6fa8d4db": {
-        "name": "丹恒",
-        "text": "任何和列车有关的问题，最明智的判断就是听从姬子的判断。",
-        "filepath": "chinese(prc)/voice/archive_danheng_10.wav"
-    },
-    "fcf4a6ee10cd5d35": {
-        "name": "姬子",
-        "text": "那个孩子很谨慎，可能是一个人过惯了，不喜欢麻烦别人，也生怕连累到别人。所以我请他担任护卫和维护智库，如果无事可做，他或许并不愿意上车。",
-        "filepath": "chinese(prc)/voice/archive_himeko_10.wav"
-    },
-    "3fa1685e99626f1a": {
-        "name": "瓦尔特",
-        "text": "他很安全。我知道他有所顾虑…然而丹恒现在是列车组的一员，我和姬子不会让任何人伤害他。",
-        "filepath": "chinese(prc)/voice/archive_welt_10.wav"
-    },
-    "3de9eb771fdeb111": {
-        "name": "艾丝妲",
-        "text": "我模仿一下平时的阿兰：「大家听从艾丝妲站长的判断。」然后当我叮嘱他：「阿兰，你也小心一点。」他说：「没事，我有自己的判断。」",
-        "filepath": "chinese(prc)/voice/archive_asta_10.wav"
-    },
-    "f2497840a6366b30": {
-        "name": "黑塔",
-        "text": "艾丝妲资助过一些特殊的孩子，阿兰也是其中之一吧。",
-        "filepath": "chinese(prc)/voice/archive_herta_10.wav"
-    },
-    "a56280d54d5de5c1": {
-        "name": "布洛妮娅",
-        "text": "每次夸奖她的时候，她都很努力地板着脸，不让自己露出开心的表情…我看得出来，因为我也这么练习过。",
-        "filepath": "chinese(prc)/voice/archive_bronya_10.wav"
-    },
-    "afa9642cd48a9977": {
-        "name": "杰帕德",
-        "text": "听说我不在家的时候，姐姐开始把花拜托给佩拉照顾了…希望没给她添太多麻烦。",
-        "filepath": "chinese(prc)/voice/archive_gepard_10.wav"
-    },
-    "e7640c48503f8c6b": {
-        "name": "希露瓦",
-        "text": "会打鼓会养花会写报告，这世上还有比佩拉更靠谱的好姑娘吗？",
-        "filepath": "chinese(prc)/voice/archive_serval_10.wav"
-    },
-    "3fe00f813c358126": {
-        "name": "佩拉",
-        "text": "杰帕德戍卫官内外如一，十分可靠。对于他养花的兴趣…我姑且只能表示尊重与祝福。",
-        "filepath": "chinese(prc)/voice/archive_pela_10.wav"
-    },
-    "634273edc52ae368": {
-        "name": "希儿",
-        "text": "史瓦罗常把「人类喜欢无休止的争斗」挂在嘴上，但如果只靠退让，难道就能获得和平？",
-        "filepath": "chinese(prc)/voice/archive_seele_10.wav"
-    },
-    "ea532f120759901f": {
-        "name": "克拉拉",
-        "text": "其实…史瓦罗先生的手，可以变成帮克拉拉吹头发的机器，还可以把大石块切成小桌子和小椅子呢……",
-        "filepath": "chinese(prc)/voice/archive_clara_10.wav"
-    },
-    "8df675c289e452f4": {
-        "name": "娜塔莎",
-        "text": "听说她最近一直在帮忙照顾受伤的流浪者，非常了不起…我刚见到克拉拉的时候，虽然她会熟练地给机器人替换零件，自己的伤口却发炎了，看得我心疼坏了。",
-        "filepath": "chinese(prc)/voice/archive_natasha_10.wav"
-    },
-    "65916ecc4d7d18c5": {
-        "name": "虎克",
-        "text": "虎克的洞洞机，比史瓦罗的拳头还要大！哼！",
-        "filepath": "chinese(prc)/voice/archive_hook_10.wav"
-    },
-    "a8cb1c2de632203a": {
-        "name": "桑博",
-        "text": "红衣服小妹妹是真的厉害，她怎么能和那大铁疙瘩聊起来的？",
-        "filepath": "chinese(prc)/voice/archive_sampo_10.wav"
-    },
-    "49de1c950c0871c4": {
-        "name": "青雀",
-        "text": "我一闲下来，太卜大人就会立刻出现并塞给我一些细碎工作…看来我还得再琢磨琢磨时间管理这门学问……",
-        "filepath": "chinese(prc)/voice/archive_qingque_12.wav"
-    },
-    "607232b2324ba3e2": {
-        "name": "停云",
-        "text": "要说四两拨千斤的手段，将军大人最是得其精髓，小女子自愧不如。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_12.wav"
-    },
-    "60d4e6bb2a25431b": {
-        "name": "景元",
-        "text": "符卿的心思我明白，所以还得多让她等一等，她要是有耐心等下去，便到时机了。",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_12.wav"
-    },
-    "ae6c239738cadbbb": {
-        "name": "素裳",
-        "text": "每次听符太卜讲话，我就在那犯嘀咕，同样是仙舟人，我俩说的真是一种语言么？",
-        "filepath": "chinese(prc)/voice/archive_sushang_12.wav"
-    },
-    "78678a298318f2db": {
-        "name": "彦卿",
-        "text": "停云姑娘主办的「得物志」，如有关于剑器的部分，也会来找我写荐语呢。",
-        "filepath": "chinese(prc)/voice/archive_yanqing_12.wav"
-    },
-    "2b4b072dd648271d": {
-        "name": "白露",
-        "text": "驭空司舵…每每见我，总说自己已经放下过往了，但其实还是放不下吧。",
-        "filepath": "chinese(prc)/voice/archive_bailu_12.wav"
-    },
-    "8c6202f12b355956": {
-        "name": "三月七",
-        "text": "美丽的姬子姐姐，成熟，可靠，又优雅，还是列车的领航员…以后，我也可以成为那样的大人吧！不过咱现在这样也很好~",
-        "filepath": "chinese(prc)/voice/archive_mar7th_11.wav"
-    },
-    "57c315b5b2d94b92": {
-        "name": "丹恒",
-        "text": "瓦尔特先生一向很关注别人，却从未问过我的事。",
-        "filepath": "chinese(prc)/voice/archive_danheng_11.wav"
-    },
-    "7b006cf653fe33a4": {
-        "name": "姬子",
-        "text": "瓦尔特似乎担心自己跟不上年轻人的脚步，依我看，他自个儿内心也年轻得很…",
-        "filepath": "chinese(prc)/voice/archive_himeko_11.wav"
-    },
-    "ed3a1a5791458c63": {
-        "name": "瓦尔特",
-        "text": "姬子是那种…会发光的人。虽然我们是在重走列车过去的航路，但只要看到姬子，你就能看到她的梦想在闪光，她仿佛一开始就在列车上，一路驶向她的星穹。",
-        "filepath": "chinese(prc)/voice/archive_welt_11.wav"
-    },
-    "bc2c917f633e9390": {
-        "name": "艾丝妲",
-        "text": "任何人如果觉得自己可以像黑塔女士那样任性妄为，建议他先思考一下自己是否具备黑塔女士那样的智慧~",
-        "filepath": "chinese(prc)/voice/archive_asta_11.wav"
-    },
-    "776cd23865b9b1b1": {
-        "name": "黑塔",
-        "text": "其他藏室什么时候能找到艾丝妲这样的管理者，我就好甩手不管了。",
-        "filepath": "chinese(prc)/voice/archive_herta_11.wav"
-    },
-    "4c50a6dec94b71c0": {
-        "name": "布洛妮娅",
-        "text": "我敬重母亲，只是她和我记忆中的模样并不完全相同，或许，只是我把母亲想象成了另一个人……",
-        "filepath": "chinese(prc)/voice/archive_bronya_11.wav"
-    },
-    "2a8602351507456e": {
-        "name": "杰帕德",
-        "text": "我始终坚信，没有比大守护者更熟悉、更热爱这座城市的人了。",
-        "filepath": "chinese(prc)/voice/archive_gepard_11.wav"
-    },
-    "395e9a4f58000a22": {
-        "name": "希露瓦",
-        "text": "布洛妮娅是个好孩子，不愧是可可利亚教育出来的。最近不太见面了，我还挺想她的。",
-        "filepath": "chinese(prc)/voice/archive_serval_11.wav"
-    },
-    "b8ed8de44658e7a9": {
-        "name": "希儿",
-        "text": "找他办事还行，但谁要想和他做朋友，就是和自己过不去。",
-        "filepath": "chinese(prc)/voice/archive_seele_11.wav"
-    },
-    "91414d1b83470eb6": {
-        "name": "克拉拉",
-        "text": "虎克邀请我加入鼹鼠党，但…如果要玩捉迷藏的话，史瓦罗先生怎么办……",
-        "filepath": "chinese(prc)/voice/archive_clara_11.wav"
-    },
-    "e73eafb90e24f945": {
-        "name": "娜塔莎",
-        "text": "史瓦罗存护的是「人类」，但他并不关心「人类」是怎么想的。",
-        "filepath": "chinese(prc)/voice/archive_natasha_11.wav"
-    },
-    "c4934d5c93c7274": {
-        "name": "虎克",
-        "text": "哪里都能碰见桑博叔叔，他也在到处冒险么？",
-        "filepath": "chinese(prc)/voice/archive_hook_11.wav"
-    },
-    "1a64e246a15e703": {
-        "name": "桑博",
-        "text": "希儿小姐能用武力对付我就绝不肯动嘴皮子，这到底是我的问题还是她的问题？",
-        "filepath": "chinese(prc)/voice/archive_sampo_11.wav"
-    },
-    "cbd2568cc8d79b55": {
-        "name": "青雀",
-        "text": "天舶司的大人物，从前线退下来还得不了清闲，这官不好当啊。",
-        "filepath": "chinese(prc)/voice/archive_qingque_13.wav"
-    },
-    "b11a4ab27a7fc2b": {
-        "name": "停云",
-        "text": "曾送了些自觉稀奇的玩意儿给他，那孩子也会恭恭敬敬地道谢收下。直到小女子瞧见他在工造司挑选剑器，那眉飞色舞的样子…小孩子还是很好懂的。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_13.wav"
-    },
-    "dee174c36d576dd2": {
-        "name": "景元",
-        "text": "人人都当驭空司舵是退休了…殊不知她在放下最热爱的飞行后，选择了另一条更艰难的道路。",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_13.wav"
-    },
-    "2912b19f7919dd72": {
-        "name": "素裳",
-        "text": "我听云骑老兵说过「星火之狐」的传说，作为罗浮第一王牌飞行士，驭空大人留下的星槎纪录至今无人能破！没想到，见着面才发现，她说话还挺文文气气的~",
-        "filepath": "chinese(prc)/voice/archive_sushang_13.wav"
-    },
-    "f6731831c6496992": {
-        "name": "彦卿",
-        "text": "素裳姑娘的剑是好剑，但好剑未必称手。要多使出它的一分功力，得多花十倍气力。",
-        "filepath": "chinese(prc)/voice/archive_yanqing_13.wav"
-    },
-    "bc66ed36b4abb34c": {
-        "name": "白露",
-        "text": "停云小姐可以承受比一般人更激烈的按摩治疗手法，所以我从来不会对她「手」下留情~",
-        "filepath": "chinese(prc)/voice/archive_bailu_13.wav"
-    },
-    "fca630f9f7819eb9": {
-        "name": "三月七",
-        "text": "听说杨叔曾经是秘密组织的首领，拯救过星球，当过老师，还画过动画的原画！哎，简直是外星人了……",
-        "filepath": "chinese(prc)/voice/archive_mar7th_12.wav"
-    },
-    "de4673bf1d0c48f5": {
-        "name": "丹恒",
-        "text": "也许是我的直觉：别惹帕姆。",
-        "filepath": "chinese(prc)/voice/archive_danheng_12.wav"
-    },
-    "fbcabadc664b5f1b": {
-        "name": "姬子",
-        "text": "在帕姆眼里，我一直就是个列车维修工吧。",
-        "filepath": "chinese(prc)/voice/archive_himeko_12.wav"
-    },
-    "2e286c6fa90ee94c": {
-        "name": "瓦尔特",
-        "text": "无论何时需要帮助，帕姆都会及时赶到，不过请不要故意寻它开心，上一个这么做的人已经……",
-        "filepath": "chinese(prc)/voice/archive_welt_12.wav"
-    },
-    "f11f842efbb45f8e": {
-        "name": "黑塔",
-        "text": "多无聊的东西送给她，过一阵子回到我手上，又会变得有趣起来。",
-        "filepath": "chinese(prc)/voice/archive_herta_12.wav"
-    },
-    "f8f614c616db3d27": {
-        "name": "布洛妮娅",
-        "text": "那场相遇本身或许是场灾难，却是一个全新未来的开始…要是被希儿听到了，又要说我在讲什么大道理了吧。",
-        "filepath": "chinese(prc)/voice/archive_bronya_12.wav"
-    },
-    "5c14d03c0b0b8e11": {
-        "name": "杰帕德",
-        "text": "此人颇为狡猾。根据市民报案线索，他不知从哪搞了些古代遗物，也未全数倒卖，手头自留了几件，专门用来骗人。",
-        "filepath": "chinese(prc)/voice/archive_gepard_12.wav"
-    },
-    "93cfb85786c0ee45": {
-        "name": "希露瓦",
-        "text": "我认识的可可利亚会去屋顶上听我唱歌，但…「大守护者」不会。",
-        "filepath": "chinese(prc)/voice/archive_serval_12.wav"
-    },
-    "48a95fdb7a0ca246": {
-        "name": "希儿",
-        "text": "别看她一天天到处疯玩，说不定哪天真能玩出些名堂来。",
-        "filepath": "chinese(prc)/voice/archive_seele_12.wav"
-    },
-    "8ccd91b0df641522": {
-        "name": "娜塔莎",
-        "text": "以我对桑博的了解，他最不喜欢欠人情，总会想办法还上——人情这种东西，时间拖得越久，越难估价。",
-        "filepath": "chinese(prc)/voice/archive_natasha_12.wav"
-    },
-    "b925c2bd16fbb6eb": {
-        "name": "虎克",
-        "text": "希儿姐姐说话声音很大，但有时却说不过虎克呢，嘿嘿~",
-        "filepath": "chinese(prc)/voice/archive_hook_12.wav"
-    },
-    "9752203ef5de9a6c": {
-        "name": "桑博",
-        "text": "咱俩经常见面，我跑他追。老实说，这种猫鼠游戏玩久了也…有点上头，嘿嘿。",
-        "filepath": "chinese(prc)/voice/archive_sampo_12.wav"
-    },
-    "4b0808a6b68a6fe6": {
-        "name": "青雀",
-        "text": "有次见停云小姐在牌馆前驻足打量，便留她打了一盘。停云小姐人好看，打牌也好看，那天牌桌前人满为患，热情高涨，店主输得落花流水，表演效果拉满。",
-        "filepath": "chinese(prc)/voice/archive_qingque_14.wav"
-    },
-    "fc8e96e422fb1e78": {
-        "name": "停云",
-        "text": "无论是驾驶星槎亦或统领天舶司，仙舟的航向上始终都有驭空大人的身影。论「使舵」的本领，小女子还所差甚远。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_14.wav"
-    },
-    "fcbb32ed1aa705a9": {
-        "name": "景元",
-        "text": "正是像停云小姐这样的接渡使往来周旋，仙舟的贸易才能有如今的繁盛。",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_14.wav"
-    },
-    "4a526fc9294c9e49": {
-        "name": "素裳",
-        "text": "我在好多间铺子都见着停云姑娘，还当她是客人，想着这姑娘好生能买…后来才知道，那铺子是人家自己的！",
-        "filepath": "chinese(prc)/voice/archive_sushang_14.wav"
-    },
-    "17b3d65b767dde69": {
-        "name": "彦卿",
-        "text": "有次去天舶司登门拜访，撞见驭空大人独自面对皮侯，凝视许久。虽然最终一箭未射，但她或许早在心中拉了千百次弓吧。",
-        "filepath": "chinese(prc)/voice/archive_yanqing_14.wav"
-    },
-    "42b43b401eb10577": {
-        "name": "白露",
-        "text": "哎呀，我就算足不出户，也可以听见她的声音，「急人所急，有求必应」——对吧？",
-        "filepath": "chinese(prc)/voice/archive_bailu_14.wav"
-    },
-    "7782d70237fe5838": {
-        "name": "三月七",
-        "text": "列车长就是最棒的！",
-        "filepath": "chinese(prc)/voice/archive_mar7th_13.wav"
-    },
-    "3a877e61028047f4": {
-        "name": "希露瓦",
-        "text": "他嘛，我就等着老弟什么时候能逮着他。",
-        "filepath": "chinese(prc)/voice/archive_serval_13.wav"
-    },
-    "cdccc1d3398ff62f": {
-        "name": "希儿",
-        "text": "要不是头儿，还有没有我这号人都不好说。",
-        "filepath": "chinese(prc)/voice/archive_seele_13.wav"
-    },
-    "3ad303a9d7a3976b": {
-        "name": "娜塔莎",
-        "text": "有时站在诊所的门口，看她在外面闹闹腾腾的样子，就不觉得累了。",
-        "filepath": "chinese(prc)/voice/archive_natasha_13.wav"
-    },
-    "b2050c41ebc34a2": {
-        "name": "虎克",
-        "text": "虎克最喜欢老爹了！等虎克挖到了宝藏，要给老爹盖一间大房子！",
-        "filepath": "chinese(prc)/voice/archive_hook_13.wav"
-    },
-    "2d03a361497e53d": {
-        "name": "桑博",
-        "text": "以前关系不错，现在的关系…可能还不及和她弟弟。",
-        "filepath": "chinese(prc)/voice/archive_sampo_13.wav"
-    },
-    "ccc56a9e732a9acf": {
-        "name": "青雀",
-        "text": "谁？听名字像是外来者…我们这边外来者可多了，在鉴爻轩也经常碰到，多半是来求自己「求长生」成功…嗯，你没听错，我说了两个「求」。",
-        "filepath": "chinese(prc)/voice/archive_qingque_15.wav"
-    },
-    "7e4bf0dbdf9b3bf9": {
-        "name": "停云",
-        "text": "天外的行商？居然不在「鸣火」的名录上么…奇怪，我怎么记不清了。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_15.wav"
-    },
-    "a71018f699790168": {
-        "name": "景元",
-        "text": "我也见过不少行商，但你不觉得，像他这般不急于做成生意的行商并不多么？",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_15.wav"
-    },
-    "9c82d5d0313a6788": {
-        "name": "素裳",
-        "text": "是牌馆那打牌的姑娘吧？她那摸牌打牌的手劲，没个把年头练不出来…打牌打到这份上，都能算是一门武艺啦。",
-        "filepath": "chinese(prc)/voice/archive_sushang_15.wav"
-    },
-    "bea1bc64f26afd28": {
-        "name": "彦卿",
-        "text": "符太卜想当将军…别的不说，先改改她一开口大家就想睡觉的毛病吧。",
-        "filepath": "chinese(prc)/voice/archive_yanqing_15.wav"
-    },
-    "bd90d9485f2db16e": {
-        "name": "白露",
-        "text": "我只恨没有早点结识「帝垣琼玉」的发明者…如此强身健脑的益智活动，理应发扬光大！",
-        "filepath": "chinese(prc)/voice/archive_bailu_15.wav"
-    },
     "9c3cf3cc4389f9a4": {
         "name": "希儿",
         "text": "我们都是第一次看见贝洛伯格真正的天空…同一片天空。",
@@ -52804,6 +52809,26 @@
         "text": "起初我还当他是拿剑匣作武器，看着真有几分古怪…得想办法和他对上几招，逼迫他使出些真功夫来……",
         "filepath": "chinese(prc)/voice/archive_yanqing_16.wav"
     },
+    "2f4840fcc382fd2d": {
+        "name": "停云",
+        "text": "太卜大人说话虽然不留情面，但又句句在理，小女子斗胆说一句，这训斥听来真别有一番滋味……",
+        "filepath": "chinese(prc)/voice/archive_tingyun_19.wav"
+    },
+    "c0642705a1e6889c": {
+        "name": "停云",
+        "text": "之前只当她是牌馆的常客，但近来却听说她是太卜司的卜者…那儿不是忙得脚不沾地么？哪还有空去牌馆呀？",
+        "filepath": "chinese(prc)/voice/archive_tingyun_18.wav"
+    },
+    "adb6c30dfe8d815d": {
+        "name": "景元",
+        "text": "她教我研习剑技，却始终未能与我亲近一些…但无边的夜色中，哪有比始终当空的明月更亲近人的存在呢？",
+        "filepath": "chinese(prc)/voice/archive_jingyuan_18.wav"
+    },
+    "fb4dffea0d3319fd": {
+        "name": "素裳",
+        "text": "「月光一线，九百生灭」——西衍先生关于镜流的话本里，我最喜欢这句。这样的剑士，在云骑军的史册中怎么却没记载呢……",
+        "filepath": "chinese(prc)/voice/archive_sushang_18.wav"
+    },
     "bb4c36af82d6b549": {
         "name": "青雀",
         "text": "早前打牌打得手抽筋，托了朋友介绍去的。本来我还有点将信将疑，没想到开了药后，白露小姐拿出一副「帝垣琼玉」，叮嘱我平时多叠叠牌能改善手的灵活性，我立马就肃然起敬了。",
@@ -52823,30 +52848,5 @@
         "name": "素裳",
         "text": "白露…是那位「衔药龙女」吧？说是她一哭，患者的病就好了…听着够离谱！但说到持明嘛…越是这种离谱的事儿，越有可能是真的吧？",
         "filepath": "chinese(prc)/voice/archive_sushang_17.wav"
-    },
-    "c0642705a1e6889c": {
-        "name": "停云",
-        "text": "之前只当她是牌馆的常客，但近来却听说她是太卜司的卜者…那儿不是忙得脚不沾地么？哪还有空去牌馆呀？",
-        "filepath": "chinese(prc)/voice/archive_tingyun_18.wav"
-    },
-    "adb6c30dfe8d815d": {
-        "name": "景元",
-        "text": "她教我研习剑技，却始终未能与我亲近一些…但无边的夜色中，哪有比始终当空的明月更亲近人的存在呢？",
-        "filepath": "chinese(prc)/voice/archive_jingyuan_18.wav"
-    },
-    "fb4dffea0d3319fd": {
-        "name": "素裳",
-        "text": "「月光一线，九百生灭」——西衍先生关于镜流的话本里，我最喜欢这句。这样的剑士，在云骑军的史册中怎么却没记载呢……",
-        "filepath": "chinese(prc)/voice/archive_sushang_18.wav"
-    },
-    "2f4840fcc382fd2d": {
-        "name": "停云",
-        "text": "太卜大人说话虽然不留情面，但又句句在理，小女子斗胆说一句，这训斥听来真别有一番滋味……",
-        "filepath": "chinese(prc)/voice/archive_tingyun_19.wav"
-    },
-    "aba750f822177869": {
-        "name": "停云",
-        "text": "如今茶楼里里外外全靠梦茗一人张罗，世人常道「狐人天生会行商」，哪有那么容易哟。",
-        "filepath": "chinese(prc)/voice/archive_tingyun_20.wav"
     }
 }
