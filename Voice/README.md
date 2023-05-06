@@ -9,7 +9,7 @@
 
 | 语言 |                           下载地址                           |
 | :--: | :----------------------------------------------------------: |
-| 中文 | [点我下载](https://huggingface.co/datasets/Erythrocyte/StarRailDataset/resolve/main/1.0/Chinese(PRC).7z) |
+| 中文 | https://huggingface.co/datasets/Erythrocyte/StarRailDataset/resolve/main/1.0/Chinese(PRC).7z |
 | 日语 |                            更新中                            |
 | 英文 |                            更新中                            |
 | 韩语 |                            更新中                            |
