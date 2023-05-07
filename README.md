@@ -29,7 +29,7 @@
 
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI二创爱好者交流群 | [点击链接加入群聊【原神/崩坏/未定/方舟AI二创爱好者交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
+| 二次元AI爱好者交流群 | [点击链接加入群聊【二次元AI爱好者交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
 |   炼丹师交流社区   |                   https://www.ai-lab.top/                    |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
