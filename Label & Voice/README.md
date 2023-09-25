@@ -22,4 +22,4 @@
 |    语音    |                           下载地址                           |
 | :--------: | :----------------------------------------------------------: |
 | OneDrive | [点我下载](https://aihobbyist-my.sharepoint.com/:f:/g/personal/erythrocyte_org_ai-lab_top/EglCWCuolIFEq_XqLRWRRSgB3Ru35_YiDdHM6mgHuM21wg) |
-| Alist(强烈推荐) | [点我下载](https://pan.zhjlfx.cn/StarRail%20Datasets) |
+| Alist(强烈推荐) | [点我下载](https://pan.ai-hobbyist.org/StarRail%20Datasets) |
