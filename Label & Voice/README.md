@@ -17,9 +17,22 @@
 | 2023.06.18 | 阿里云盘账号被封，挂载源换回sharepoint |
 | 2023.07.23 |更新星穹铁道1.2语音数据集 |
 | 2023.09.07 |更新星穹铁道1.3语音数据集&索引 |
-### 下载地址
+| 2023.10.23 |更新星穹铁道中日英全角色完整包 |
+### 完整包下载地址
 
 |    语音    |                           下载地址                           |
 | :--------: | :----------------------------------------------------------: |
-| OneDrive | [点我下载](https://aihobbyist-my.sharepoint.com/:f:/g/personal/erythrocyte_org_ai-lab_top/EglCWCuolIFEq_XqLRWRRSgB3Ru35_YiDdHM6mgHuM21wg) |
-| Alist(强烈推荐) | [点我下载](https://pan.ai-hobbyist.org/StarRail%20Datasets) |
+| 中文 | [点我下载](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 日语 | [点我下载](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 英语 | [点我下载](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full) |
+| 韩语 | 待更新 |
+
+### 角色分包下载地址
+
+| 语言 | 下载地址 |
+| :--: | :------: |
+| 中文 |  待更新  |
+| 日语 |  待更新  |
+| 英语 |  待更新  |
+| 韩语 |  待更新  |
+
