@@ -6,15 +6,31 @@
 2. **数据集仅供二次创作&模型训练，不得用于任何商业用途，不得用本仓库数据集训练的模型制作违反法律法规的内容，不得二次配布。如被发现滥用，将停止公开！**
 3. **如果训练模型的时候用到了本仓库的数据集，欢迎各位在作品简介里面注明本仓库地址。**
 4. **数据集中绝大多数的音频文件都是44.1khz的采样率，有极少数的音频是36khz甚至是24khz的采样率，使用前请先筛选音频。**
+5. **如果急需新版数据集，在新版数据集上传前可以通过分类脚本和索引自行分类。分类脚本获取：[点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts)**
 
-### 注释
+### 更新日志
 
-|  文件夹名称   |                             说明                             |
-| :-----------: | :----------------------------------------------------------: |
-|  索引 & 脚本  | 星穹铁道语音的索引+索引生成+分类脚本，传送门：[点我传送](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts) |
-| Label & Voice |                   标注文件 & 语音下载地址                    |
+|    日期    |                 更新内容                  |
+| :--------: | :---------------------------------------: |
+| 2024.03.01 | 更新星穹铁道2.0中日英韩全角色语音分角色包 |
+| 2024.03.27 |       更新星穹铁道2.1全角色语音索引       |
 
-### 数据集可训练的模型（欢迎补充）
+### 当前游戏版本
+
+|                | 中文 | 日语 | 英语 | 韩语 |
+| :------------: | :--: | :--: | :--: | :--: |
+|  **语音索引**  | 2.1  | 2.1  | 2.1  | 2.1  |
+| **语音数据集** | 2.0  | 2.0  | 2.0  | 2.0  |
+
+### 数据集下载
+
+|              |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
+| :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **分角色包** | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
+|  **完整包**  |                            待更新                            |                            待更新                            |                            待更新                            |                            待更新                            |
+| **语音索引** | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.1/CHS.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.1/JP.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.1/EN.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.1/KR.json) |
+
+### 数据集常用训练项目（欢迎补充）
 
 |      名称      |                             仓库                             |
 | :------------: | :----------------------------------------------------------: |
@@ -25,6 +41,7 @@
 |    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
 |    Diff-SVC    |            https://github.com/prophesier/diff-svc            |
 |      RVC       | https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI |
+| GPT-Sovits | [https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
 |   DiffSinger   |            https://github.com/openvpi/DiffSinger             |
 
 ### 联系方式
