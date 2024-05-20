@@ -14,6 +14,7 @@
 | :--------: | :---------------------------------------: |
 | 2024.05.10 | 更新星穹铁道2.2全角色语音索引 |
 | 2024.05.19 | 更新星穹铁道2.2分角色语音数据集 |
+| 2024.05.20 | 更新星穹铁道2.2全角色语音完整数据集 |
 
 ### 当前游戏版本
 
@@ -21,14 +22,14 @@
 | :----------------------: | :--: | :--: | :--: | :--: |
 |       **语音索引**       | 2.2  | 2.2  | 2.2  | 2.2  |
 | **语音数据集**(分角色包) | 2.2  | 2.2  | 2.2  | 2.2  |
-|  **语音数据集**(完整包)  | 2.1  | 2.1  | 2.1  | 2.1  |
+|  **语音数据集**(完整包)  | 2.2  | 2.2  | 2.2  | 2.2  |
 
 ### 数据集下载
 
 |              |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
 | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **分角色包** | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%88%86%E8%A7%92%E8%89%B2%20-%20Single) |
-|  **完整包**  | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.1_CN.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.1_JP.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.1_EN.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.1_KR.7z) |
+|  **完整包**  | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.2_CN.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.2_JP.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.2_EN.7z) | [点我获取](https://pan.ai-hobbyist.org/d/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean/%E5%AE%8C%E6%95%B4%E5%8C%85%20-%20Full/StarRail2.2_KR.7z) |
 | **语音索引** | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.2/CHS.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.2/JP.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.2/EN.json) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.2/KR.json) |
 
 ### 数据集常用训练项目（欢迎补充）
