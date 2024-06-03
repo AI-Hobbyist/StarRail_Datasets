@@ -57,3 +57,6 @@
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
 |        数据集专栏        |                    [https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458)                     |
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=AI-Hobbyist/StarRail_Datasets&type=Date)](https://star-history.com/#AI-Hobbyist/StarRail_Datasets&Date)
