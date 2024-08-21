@@ -55,7 +55,7 @@
 | AI Hobbyist Community  | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |           QQ           |                          2544390577                          |
 |         Email          |                    tsuneki_hikari@qq.com                     |
-|    More Information    | [https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458) |
+|    More Information    | [https://www.bilibili.com/read/cv36649798](https://www.bilibili.com/read/cv36649798) |
 
 ## Star History
 

@@ -54,7 +54,7 @@
 |   AI Hobbyist社区   | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.org/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
-|        数据集专栏        |                    [https://www.bilibili.com/read/cv24180458](https://www.bilibili.com/read/cv24180458)                     |
+|        数据集专栏        |                    [https://www.bilibili.com/read/cv36649798](https://www.bilibili.com/read/cv36649798)                     |
 
 ## Star History
 
