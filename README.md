@@ -14,23 +14,23 @@
 
 |          Date           |                           Updates                            |
 | :---------------------: | :----------------------------------------------------------: |
-|       2024.08.01       |     Updated full character Chinese voice index, Chinese complete pack, Chinese character pack for StarRail 2.3      |
+|       2024.08.01       |     Updated full character Chinese voice index, Chinese complete pack, Chinese character pack for StarRail 2.4      |
 
 ### Current Game Version
 
 |                                    | Chinese | Japanese | English | Korean |
 | :--------------------------------: | :-----: | :------: | :-----: | :----: |
-|          **Voice Index**           |   2.4   |   2.3    |   2.3   |  2.3   |
-| **Voice Dataset** (Character Pack) |   2.4   |   2.3    |   2.3   |  2.3   |
-| **Voice Dataset** (Complete Pack)  |   2.4  |   2.3    |   2.3   |  2.3   |
+|          **Voice Index**           |   2.4   |   2.4    |   2.4   |  2.4   |
+| **Voice Dataset** (Character Pack) |   2.4   |   2.4    |   2.4   |  2.4   |
+| **Voice Dataset** (Complete Pack)  |   2.4  |   2.4    |   2.4   |  2.4   |
 
 ### Dataset Download
 
 |                    |                           Chinese                            |                           Japanese                           |                           English                            |                            Korean                            |
 | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **Character Pack** | [Click to get](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese) | [Click to get](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese) | [Click to get](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | [Click to get](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) |
-| **Complete Pack**  | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_CN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_JP.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_EN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_KR.7z) |
-|  **Voice Index**   | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/CHS.xlsx) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.3/JP.json) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.3/EN.json) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/2.3/KR.json) |
+| **Complete Pack**  | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_CN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_JP.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_EN.7z) | [Click to get](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_KR.7z) |
+|  **Voice Index**   | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/CHS.xlsx) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/JP.xlsx) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/EN.xlsx) | [Click to get](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/KR.xlsx) |
 
 ### Commonly Used Training Projects for the Dataset (Contributions Welcome)
 
