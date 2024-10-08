@@ -7,29 +7,26 @@
 2. **数据集仅供二次创作&模型训练，不得用于任何商业用途，不得用本仓库数据集训练的模型制作违反法律法规的内容，不得二次配布。如被发现滥用，将停止公开！**
 3. **如果训练模型的时候用到了本仓库的数据集，欢迎各位在作品简介里面注明本仓库地址。**
 4. **数据集中绝大多数的音频文件都是44.1khz的采样率，有极少数的音频是36khz甚至是24khz的采样率，使用前请先筛选音频。**
-5. **如果急需新版数据集，在新版数据集上传前可以通过分类脚本和索引自行分类。分类脚本获取：[传送门](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts)**
 
 ### 更新日志
 
 |    日期    |                 更新内容                  |
 | :--------: | :---------------------------------------: |
-| 2024.08.01 | 更新星穹铁道2.4中文全角色语音索引、分角色包、完整包 |
+| 2024.10.08 | 更新星穹铁道2.5中日英韩全角色 分角色包、完整包 |
 
 ### 当前游戏版本
 
 |                          | 中文 | 日语 | 英语 | 韩语 |
 | :----------------------: | :--: | :--: | :--: | :--: |
-|       **语音索引**       | 2.4  | 2.3  | 2.3  | 2.3  |
-| **语音数据集**(分角色包) | 2.4  | 2.3 | 2.3  | 2.3  |
-|  **语音数据集**(完整包)  | 2.4  | 2.3  | 2.3  | 2.3  |
+| **语音数据集**(分角色包) | 2.5  | 2.5 | 2.5  | 2.5  |
+|  **语音数据集**(完整包)  | 2.5  | 2.5  | 2.5  | 2.5  |
 
 ### 数据集下载
 
 |                              |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
 | :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         **分角色包**         | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | [点我获取](https://pan.ai-hobbyist.org/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) |
-| **完整包** | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.4_CN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_JP.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_EN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.3_KR.7z) |
-|         **语音索引**         | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/CHS.xlsx) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/JP.xlsx) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/EN.xlsx) | [点我获取](https://github.com/AI-Hobbyist/StarRail_Voice_Sorting_Scripts/raw/main/Indexs/KR.xlsx) |
+|         **分角色包**         | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) |
+| **完整包** | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_CN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_JP.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_EN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_KR.7z) |
 
 ### 数据集常用训练项目（欢迎补充）
 
@@ -49,7 +46,7 @@
 
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=7vd0kFFgSdgx3c3CZ33J01dx2XTdfelr&authKey=rsG7W1bP3mlsg3UfTpsVrLV%2BLYvmsqJvH%2F2KoWswFd3pa7nkBf0oEV5vCYvBHZLS&noverify=0&group_code=309046913) |
+| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](https://qm.qq.com/q/XrzbluTUAs) |
 | Discord | [https://discord.gg/eGzeMgYSPD](https://discord.gg/eGzeMgYSPD) |
 |   AI Hobbyist社区   | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.org/) |
 |         QQ         |                          2544390577                          |
