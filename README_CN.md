@@ -1,54 +1,66 @@
+
 # StarRail Datasets For SVC/SVS/TTS
 [**English**](./README.md) | **简体中文**
+## 注意事项
 
-### 注意事项
+详见：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.com/read/cv36652528)
 
-1. **本仓库的语音数据集的所有权均归 [米哈游](https://www.mihoyo.com/) 所有。**
-2. **数据集仅供二次创作&模型训练，不得用于任何商业用途，不得用本仓库数据集训练的模型制作违反法律法规的内容，不得二次配布。如被发现滥用，将停止公开！**
-3. **如果训练模型的时候用到了本仓库的数据集，欢迎各位在作品简介里面注明本仓库地址。**
-4. **数据集中绝大多数的音频文件都是44.1khz的采样率，有极少数的音频是36khz甚至是24khz的采样率，使用前请先筛选音频。**
-
-### 更新日志
-
-|    日期    |                 更新内容                  |
-| :--------: | :---------------------------------------: |
-| 2024.10.08 | 更新星穹铁道2.5中日英韩全角色 分角色包、完整包 |
-
-### 当前游戏版本
+## 当前游戏版本
 
 |                          | 中文 | 日语 | 英语 | 韩语 |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **语音数据集**(分角色包) | 2.5  | 2.5 | 2.5  | 2.5  |
-|  **语音数据集**(完整包)  | 2.5  | 2.5  | 2.5  | 2.5  |
+| **语音数据集**(分角色包) | 2.6  | 2.6  | 2.6  | 2.6  |
+|  **语音数据集**(完整包)  | 2.6  | 2.6  | 2.6  | 2.6  |
 
-### 数据集下载
+## 数据集下载
+### 分角色包
+>#### 汉语语音包
+>[https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E4%B8%AD%E6%96%87)
 
-|                              |                             中文                             |                             日语                             |                             英语                             |                             韩语                             |
-| :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|         **分角色包**         | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E4%B8%AD%E6%96%87%20-%20Chinese) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E6%97%A5%E8%AF%AD%20-%20Japanese) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E8%8B%B1%E8%AF%AD%20-%20English) | [点我获取](https://pan.ai-hobbyist.org/GL/StarRail%20Datasets/%E9%9F%A9%E8%AF%AD%20-%20Korean) |
-| **完整包** | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_CN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_JP.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_EN.7z) | [点我获取](https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.5_KR.7z) |
+>#### 日语语音包
+>[https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E6%97%A5%E8%AF%AD)
 
-### 数据集常用训练项目（欢迎补充）
+>#### 英语语音包
+>[https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E8%8B%B1%E8%AF%AD)
 
-|      名称      |                             仓库                             |
-| :------------: | :----------------------------------------------------------: |
-|      Vits      |             https://github.com/CjangCjengh/vits              |
-|      Bert-Vits      |             https://github.com/fishaudio/Bert-VITS2             |
-|     Sovits     | [https://github.com/svc-develop-team/so-vits-svc](https://github.com/svc-develop-team/so-vits-svc) |
-| Fish Diffusion |         https://github.com/fishaudio/fish-diffusion          |
-|    DDSP-SVC    |              https://github.com/yxlllc/DDSP-SVC              |
-|    Diff-SVC    |            https://github.com/prophesier/diff-svc            |
-|      RVC       | https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI |
-| GPT-Sovits | [https://github.com/RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
-|   DiffSinger   |            https://github.com/openvpi/DiffSinger             |
+>#### 韩语语音包
+>[https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD](https://pan.ai-hobbyist.com/StarRail%20Datasets/%E5%88%86%E8%A7%92%E8%89%B2%E5%8C%85/%E9%9F%A9%E8%AF%AD)
 
-### 联系方式
+### 完整包
+>#### 汉语语音包
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.6_CN.7z
+>```
+
+>#### 日语语音包
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.6_JP.7z
+>```
+
+>#### 英语语音包
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.6_EN.7z
+>```
+
+>#### 韩语语音包
+> ```bash 
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail2.6_KR.7z
+>```
+
+## 更新日志
+
+|    日期    |                 更新内容                  |
+| :--------: | :---------------------------------------: |
+| 2024.11.24 | 更新星穹铁道2.6中日英韩全角色语音 分角色包、完整包 |
+
+
+## 联系方式
 
 |      联系方式      |                            传送门                            |
 | :----------------: | :----------------------------------------------------------: |
-| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](https://qm.qq.com/q/XrzbluTUAs) |
-| Discord | [https://discord.gg/eGzeMgYSPD](https://discord.gg/eGzeMgYSPD) |
-|   AI Hobbyist社区   | [https://www.ai-hobbyist.org/](https://www.ai-hobbyist.org/) |
+| AI Hobbyist总群 | [点击链接加入群聊【AI Hobbyist总群】](https://qm.qq.com/q/Ii0OLQTF2U) |
+| AI Hibbyist QQ频道 | [点击链接加入QQ频道【AI Hobbyist】](https://pd.qq.com/s/8c2wkdwyl) |
+|   AI Hobbyist社区   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |         QQ         |                          2544390577                          |
 |        邮箱        |                    tsuneki_hikari@qq.com                     |
 |        数据集专栏        |                    [https://www.bilibili.com/read/cv36649798](https://www.bilibili.com/read/cv36649798)                     |
@@ -56,3 +68,4 @@
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AI-Hobbyist/StarRail_Datasets&type=Date)](https://star-history.com/#AI-Hobbyist/StarRail_Datasets&Date)
+
