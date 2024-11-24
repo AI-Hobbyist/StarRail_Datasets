@@ -58,8 +58,8 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 |      Contact Method      |                            Link                            |
 | :----------------: | :----------------------------------------------------------: |
 | AI Hobbyist QQ Group | [AI Hobbyist QQ Group](https://qm.qq.com/q/Ii0OLQTF2U) |
-| AI Hibbyist QQ Channel | [AI Hibbyist QQ Channel](https://pd.qq.com/s/8c2wkdwyl) |
-|   AI Hobbyist社区   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
+| AI Hibbyist Discord | [AI Hibbyist Discord](https://discord.gg/eGzeMgYSPD) |
+|   AI Hobbyist Community	   | [https://www.ai-hobbyist.com/](https://www.ai-hobbyist.com/) |
 |         QQ Number         |                          2544390577                          |
 |        Email        |                    tsuneki_hikari@qq.com                     |
 |        Release Article       |                    [https://www.bilibili.com/read/cv36649798](https://www.bilibili.com/read/cv36649798)                     |
