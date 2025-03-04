@@ -9,8 +9,8 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 
 |                          | Chinese | Japanese | English | Korean |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **Character Pack** | 3.0  | 3.0  | 3.0  | 3.0  |
-|  **Full Pack**  | 3.0  | 3.0  | 3.0  | 3.0  |
+| **Character Pack** | 3.1  | 3.1  | 3.1  | 3.1  |
+|  **Full Pack**  | 3.1  | 3.1  | 3.1  | 3.1  |
 
 ## Download
 ### Character Pack
@@ -29,29 +29,29 @@ Please Refer：[https://www.bilibili.com/read/cv36652528](https://www.bilibili.c
 ### Full Pack
 >#### Chinese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.0_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.1_CN.7z
 >```
 
 >#### Japanese
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.0_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.1_JP.7z
 >```
 
 >#### English
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.0_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.1_EN.7z
 >```
 
 >#### Korean
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.0_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.1_KR.7z
 >```
 
 ## Updates
 
 |    Date    |                 Update                  |
 | :--------: | :---------------------------------------: |
-| 2025.01.29 |StarRail 3.0 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
+| 2025.03.04 |StarRail 3.1 Character Pack and Full Pack. Include Chinese, Japanese, English and Korean Voices|
 
 ## Contact us
 
