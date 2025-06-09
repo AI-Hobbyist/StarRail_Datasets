@@ -9,8 +9,8 @@
 
 |                          | 中文 | 日语 | 英语 | 韩语 |
 | :----------------------: | :--: | :--: | :--: | :--: |
-| **语音数据集**(分角色包) | 3.2  | 3.2  | 3.2  | 3.2  |
-|  **语音数据集**(完整包)  | 3.2  | 3.2  | 3.2  | 3.2  |
+| **语音数据集**(分角色包) | 3.3  | 3.3  | 3.3  | 3.3  |
+|  **语音数据集**(完整包)  | 3.3  | 3.3  | 3.3  | 3.3  |
 
 ## 数据集下载
 ### 分角色包
@@ -29,29 +29,29 @@
 ### 完整包
 >#### 汉语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.2_CN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.3_CN.7z
 >```
 
 >#### 日语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.2_JP.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.3_JP.7z
 >```
 
 >#### 英语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.2_EN.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.3_EN.7z
 >```
 
 >#### 韩语语音包
 > ```bash 
->wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.2_KR.7z
+>wget -c https://modelscope.cn/datasets/aihobbyist/StarRail_Dataset/resolve/master/StarRail3.3_KR.7z
 >```
 
 ## 更新日志
 
 |    日期    |                 更新内容                  |
 | :--------: | :---------------------------------------: |
-| 2025.05.07 | 更新星穹铁道3.2中日英韩全角色语音 分角色包、完整包 |
+| 2025.06.09 | 更新星穹铁道3.3中日英韩全角色语音 分角色包、完整包 |
 
 
 ## 联系方式
